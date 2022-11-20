@@ -1,4 +1,4 @@
-# P10 
+# p10 
 
 This program looks at the number of primes found between powers of 10.
 
